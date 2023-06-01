@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calculator Conversion Numbering</string>
+    <!-- First Screen -->
+    <string name="number_field_label">Enter a Number</string>
+    <string name="number_field_hint">Number</string>
+    <string name="system_type_label">Conversion System</string>
+    <string name="binary_label">Binary</string>
+    <string name="octal_label">Octal</string>
+    <string name="hexadecimal_label">Hexa</string>
+    <string name="decimal">Decimal</string>
+    <string name="first_screen_title">Conversion System</string>
+    <string name="clear_butt">CLEAR</string>
+</resources>
